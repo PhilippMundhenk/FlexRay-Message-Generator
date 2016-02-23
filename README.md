@@ -13,8 +13,6 @@ The following parameters can be configured (see Configuration.java):
 - messageSizes: possible message sizes
 - messageSizeRatios: ratios of message sizes, needs to be as long as message size array
 - filename_newFormat/filename_oldFormat: files to save generated messages to
-
-
 - multiMode_on: multi-mode settings (true/false)
 - multiMode_numberOfModes: number of modes, currently only 2 supported
 - multiMode_PeriodRatio: minimum ratio of longest message period/shortest message period (0: disabled/free selection)
