@@ -33,10 +33,10 @@ ECU_1,frame1,10,5.0,ECU_0,ECU_3 <br />
 ECU_3,frame2,10,5.0,ECU_0,ECU_1,ECU_2 <br />
 
 ### New Format (a slightly more extensive format):
-<Number of modes (if more than one mode exits for any message)>
-<List of ECUs>
-<Message1: Sender,Name,Mode,Length,Period,Deadline,Receiver1,Receiver2,...> <br />
-<...> <br />
+{Number of modes (if more than one mode exits for any message)}
+{List of ECUs}
+{Message1: Sender,Name,Mode,Length,Period,Deadline,Receiver1,Receiver2,...} <br />
+{...} <br />
  <br />
 Example: <br />
 2 <br />
