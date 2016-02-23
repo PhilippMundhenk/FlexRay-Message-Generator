@@ -1,4 +1,4 @@
-# FlexRay-Message-Generator
+# FlexRay Message Generator
 This is a very simple message generator for FlexRay messages. This generator supports the generation of multimode messages, i.e. messages which can switch their period, deadline and message length depending on the situation a vehicle experiences.
 
 ## Configuration
